@@ -1,0 +1,26 @@
+{
+  "name": "project-approval-fannie",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "auth": "json-server-auth users.json -p 3003"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "axios": "^1.2.1",
+    "bootstrap": "^5.2.3",
+    "node-sass": "^8.0.0",
+    "sass-loader": "^13.2.0",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "json-server": "^0.17.1",
+    "json-server-auth": "^2.1.0",
+    "vite": "^3.2.4"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "email": "dg56234@gmail.com",
+      "password": "$2a$10$f9LM/yKHKs0fam3LzXf/B.nPzReaxEV/Bxv0W2byi5ygY7/2YpJ2u",
+      "id": 1
+    },
+    {
+      "email": "dg56234@hotmail.com",
+      "password": "$2a$10$Dvls7tIXapiiMm731jBEpea/B5NmvY7mtWopBAhc4TSArifRDf0Hi",
+      "id": "acc1670737154877"
+    },
+    {
+      "email": "dg54@gmail.com",
+      "password": "$2a$10$ilRcisb0O.bg/sgd7eR5FeWkyyYBAQZr71hT9o4YKTNTI702FkMWi",
+      "id": "acc1670867223647"
+    },
+    {
+      "email": "123@admin.com",
+      "password": "$2a$10$clxXDU4j9tA79a6AUEaF7..lzRpxWxJ7NbIn8vPsK81GmyJHU4bPO", 
+      "role": "admin",
+      "id": 2
+    }
+  ]
+}
