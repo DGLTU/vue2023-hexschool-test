@@ -19,6 +19,8 @@ npm install
 ### Compile and Hot-Reload for Development
 
 ```sh
+json-server db.json
+npm run auth
 npm run dev
 ```
 
